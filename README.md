@@ -1,4 +1,3 @@
-Mitt Arv Software internship assignment:
 # E-commerce-using-flutter
 
 This is a Flutter-based e-commerce application that demonstrates various functionalities including product listing, detailed views, search, user authentication, and cart management.
